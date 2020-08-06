@@ -7,18 +7,18 @@ Simulations run on the open-source platform [Morpheus](https://morpheus.gitlab.i
 
 1. Two Genotype Two Layer Structure (Figure 2 in Manuscript)
   
-![ ](movies/TwoGenotypesTwoLayers_Mov2.gif)
+![ ](movies/TwoLayerCircuit_Mov2.gif)
 
-Simulation file: TwoGenotypesTwoLayers_Fig2.xml
+Simulation file: TwoLayerCircuit_Fig2.xml
 
-2. Two Genotype Three Layer Structure (Figure 5 in Manuscript)
+2. Two Genotype Three Layer Structure (Figure 7 in Manuscript)
 
-![ ](movies/ThreeLayerReciprocalSignaling_Mov5.gif)
+![ ](movies/ThreeLayerCircuit_Mov7.gif)
 
-Simulation file: ThreeLayerReciprocalSignaling_Fig5.xml
+Simulation file: ThreeLayerCircuit_Fig7.xml
 
-3. Single Genotype Two Layer Structyre (Figure 8 in Manuscript)
+3. Single Genotype to Two Layer Structure (Figure 10 in Manuscript)
 
-![ ](movies/Single_Genotype_to_Two_layer_Circuit_Mov8.gif)
+![ ](movies/SingleGenotype_Mov10.gif)
 
-Simulation File: Single_Genotype_to_Two_Layer_Circuit_Fig8.xml
+Simulation File: SingleGenotype_Fig10.xml
